@@ -66,4 +66,3 @@ Reflexão sobre o processo:
 A ajuda da IA para refinar o PRD e acrescentar funcionalidades traz praticidade e agilidade ao processo.
 O Lovable é estremamente rápido, ágil e prático para criação de aplicativos, entretanto, exige um PRD bem detalhado sobre as funcionalidades e suas dependências e interconexões, uma vez que a falta de detalhes pode gerar funcionalidades inoperantes, mas o custo-benefício é incomparável.
 A conclusão é que a inteligência artificial realiza a parte operacional e de desenvolvimento incomparavelmente mais rápido que o ser humano, mas exige uma orientação e supervisão criteriosa para a realização das atividades com o máximo de acurácia e precisão.
-
