@@ -53,10 +53,10 @@ Interações com o Lovable:
 Resultado final no Lovable: https://meu-agentefinanceiro-chat.lovable.app/
 
 Características do aplicativo:
--> Conversa — Chat com o Agente Financeiro para registrar gastos em linguagem natural (com respostas simuladas);
--> Metas — Acompanhamento visual de objetivos financeiros com barras de progresso;
--> Relatórios — Gráficos de pizza (gastos por categoria) e barras (receita vs gastos);
--> Investimentos — Seleção de perfil de risco (Baixo/Médio/Alto) com projeções e sugestões;
+- Conversa — Chat com o Agente Financeiro para registrar gastos em linguagem natural (com respostas simuladas);
+- Metas — Acompanhamento visual de objetivos financeiros com barras de progresso;
+- Relatórios — Gráficos de pizza (gastos por categoria) e barras (receita vs gastos);
+- Investimentos — Seleção de perfil de risco (Baixo/Médio/Alto) com projeções e sugestões;
 O design usa tema dark premium com verde esmeralda, tipografia Space Grotesk + Inter, e animações sutis.
 
 Tela inicial do aplicativo:
