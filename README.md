@@ -52,22 +52,18 @@ Interações com o Lovable:
 
 Resultado final no Lovable: https://meu-agentefinanceiro-chat.lovable.app/
 
+Características do aplicativo:
+-> Conversa — Chat com o Agente Financeiro para registrar gastos em linguagem natural (com respostas simuladas)
+-> Metas — Acompanhamento visual de objetivos financeiros com barras de progresso
+-> Relatórios — Gráficos de pizza (gastos por categoria) e barras (receita vs gastos)
+-> Investimentos — Seleção de perfil de risco (Baixo/Médio/Alto) com projeções e sugestões
+O design usa tema dark premium com verde esmeralda, tipografia Space Grotesk + Inter, e animações sutis.
+
 Tela inicial do aplicativo:
 <img width="1722" height="796" alt="image" src="https://github.com/user-attachments/assets/95301fa0-2afc-43a6-a4f4-ef0367cb3ab9" />
 
+Reflexão sobre o processo:
+A ajuda da IA para refinar o PRD e acrescentar funcionalidades traz praticidade e agilidade ao processo.
+O Lovable é estremamente rápido, ágil e prático para criação de aplicativos, entretanto, exige um PRD bem detalhado sobre as funcionalidades e suas dependências e interconexões, uma vez que a falta de detalhes pode gerar funcionalidades inoperantes, mas o custo-benefício é incomparável.
+A conclusão é que a inteligência artificial realiza a parte operacional e de desenvolvimento incomparavelmente mais rápido que o ser humano, mas exige uma orientação e supervisão criteriosa para a realização das atividades com o máximo de acurácia e precisão.
 
-
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
-
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
-
-## 💬 Conclusão
-
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
